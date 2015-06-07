@@ -1,4 +1,6 @@
 set bg=dark
+let g:gruvbox_italicize_comments=0
+colorscheme gruvbox
 
 syntax on
 set autoindent
