@@ -18,3 +18,4 @@ set noswapfile
 
 autocmd BufWritePre * :%s/\s\+$//e
 
+set runtimepath^=~/.vim/bundle/ctrlp.vim
