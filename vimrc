@@ -11,6 +11,7 @@ set expandtab
 set ruler
 set number
 set nowrap
+set colorcolumn=120
 
 set foldmethod=syntax
 set foldlevelstart=1
