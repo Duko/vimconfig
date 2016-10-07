@@ -4,7 +4,7 @@ This is the configuration I use for the VIM text editor. I keep it on github for
 
 You can read about VIM at [http://vim.org](http://vim.org).
 
-Original config by [https://github.com/jaknu](Jaknu)
+Original config by [Jaknu](https://github.com/jaknu)
 
 ### Using this config.
 
