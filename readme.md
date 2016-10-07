@@ -4,6 +4,8 @@ This is the configuration I use for the VIM text editor. I keep it on github for
 
 You can read about VIM at [http://vim.org](http://vim.org).
 
+Original config by [https://github.com/jaknu](Jaknu)
+
 ### Using this config.
 
 1. Clone it using git. `$ git clone https://github.com/jaknu/vimconfig.git ~/.vim`
