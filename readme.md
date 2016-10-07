@@ -8,6 +8,6 @@ Original config by [https://github.com/jaknu](Jaknu)
 
 ### Using this config.
 
-1. Clone it using git. `$ git clone https://github.com/jaknu/vimconfig.git ~/.vim`
+1. Clone it using git. `$ git clone https://github.com/duko/vimconfig.git ~/.vim`
 2. Add it to the vimrc in your homedir. `$ echo 'source ~/.vim/vimrc' >> ~/.vimrc`
 3. Run the update script. `$ ~/.vim/update.sh`
